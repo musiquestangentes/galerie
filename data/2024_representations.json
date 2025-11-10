@@ -1,0 +1,14 @@
+{
+  "annee": "2024",
+  "evenement": "Représentations des élèves",
+  "photos": [
+    {
+      "url": "https://raw.githubusercontent.com/musiques-tangentes/galerie/main/images/concerts/photo1.jpg",
+      "alt": "Représentations des élèves 2024 - Photo 1"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/musiques-tangentes/galerie/main/images/concerts/photo2.jpg",
+      "alt": "Représentations des élèves 2024 - Photo 2"
+    }
+  ]
+}
